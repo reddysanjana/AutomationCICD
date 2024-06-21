@@ -23,7 +23,7 @@ public class StandAloneCode {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		
+		//new comments are added
 		String productName="ADIDAS ORIGINAL";
 		String countryName =" India";
 		
